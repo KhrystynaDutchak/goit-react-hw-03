@@ -1,8 +1,8 @@
 import { useState, useEffect } from 'react';
 import './App.css';
-import ContactList from './assets/components/ContactList/ContactList';
-import SearchBox from './assets/components/SearchBox/SearchBox';
-import ContactForm from './assets/components/ContactForm/ContactForm';
+import ContactList from './components/ContactList/ContactList';
+import SearchBox from './components/SearchBox/SearchBox';
+import ContactForm from './components/ContactForm/ContactForm';
 
 function App() {
   const initialContacts = [
