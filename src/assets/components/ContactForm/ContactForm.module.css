@@ -1,0 +1,14 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border: 1px solid #000;
+    max-width: 450px;
+    width: 100%;
+    gap: 20px;
+    border-radius: 8px;
+}
+.button{
+    align-self: center;
+
+}
